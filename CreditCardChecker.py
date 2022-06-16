@@ -1,4 +1,4 @@
-## Luhn Algorithm Credit Card Checker
+## Luhn Algorithm Credit Card Checker.
 
 def checkCard(cardNo):
     nDigits = len(cardNo)
